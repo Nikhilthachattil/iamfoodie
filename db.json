@@ -1,0 +1,315 @@
+{
+  "users": [
+    {
+      "id": "Nikhil",
+      "name": "Nikhil babu",
+      "password": "1234",
+      "email": "thachattilnikhil@gmail.com",
+      "phone": "08907117188",
+      "role": "user"
+    },
+    {
+      "id": "Akhil",
+      "name": "Akhil Babu",
+      "password": "12345",
+      "email": "akhilbabu@gmail.com",
+      "phone": "",
+      "role": "user"
+    }
+  ],
+  "Adminuser": [
+    {
+      "id": "b9b6",
+      "userLoginName": [
+        {
+          "id": "Akhil",
+          "name": "Akhil Babu",
+          "password": "12345",
+          "email": "akhilbabu@gmail.com",
+          "phone": "",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 2/4/2024 @ 16:24:12",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "4ee0",
+      "userLoginName": [
+        {
+          "id": "Akhil",
+          "name": "Akhil Babu",
+          "password": "12345",
+          "email": "akhilbabu@gmail.com",
+          "phone": "",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 2/4/2024 @ 16:35:54",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "799b",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 2/4/2024 @ 16:38:51",
+      "items": [
+        {
+          "id": "2",
+          "name": "Hot Dog",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "753d",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 3/4/2024 @ 10:59:13",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "c840",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "Nikhil Babu thachattil",
+        "method": "Paid"
+      },
+      "dateSubmitted": "Last order time: 3/4/2024 @ 11:9:50",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "3a60",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 395,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 5/4/2024 @ 11:36:50",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 3
+        }
+      ],
+      "deliveryAction": "delivery success"
+    },
+    {
+      "id": "e265",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "Nikhil babu babu",
+        "method": "Paid"
+      },
+      "dateSubmitted": "Last order time: 5/4/2024 @ 12:3:38",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery Canceled"
+    },
+    {
+      "id": "8857",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 5/4/2024 @ 12:6:11",
+      "items": [
+        {
+          "id": "1",
+          "name": "Pizza",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery Canceled"
+    },
+    {
+      "id": "d001",
+      "userLoginName": [
+        {
+          "id": "Nikhil",
+          "name": "Nikhil babu",
+          "password": "1234",
+          "email": "thachattilnikhil@gmail.com",
+          "phone": "08907117188",
+          "role": "user"
+        }
+      ],
+      "grandTotal": 135,
+      "paymentMethod": {
+        "cardholderName": "",
+        "method": "COD"
+      },
+      "dateSubmitted": "Last order time: 5/4/2024 @ 12:6:21",
+      "items": [
+        {
+          "id": "4",
+          "name": "Juice",
+          "price": 130,
+          "quantity": 1
+        }
+      ],
+      "deliveryAction": "delivery Canceled"
+    }
+  ],
+  "cart": [],
+  "FoodData": [
+    {
+      "id": "1",
+      "name": "Pizza",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+      "images": [
+        "/images/img1.jpg"
+      ],
+      "price": 130
+    },
+    {
+      "id": "2",
+      "name": "Hot Dog",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+      "images": [
+        "/images/img2.jpg"
+      ],
+      "price": 130
+    },
+    {
+      "id": "3",
+      "name": "Burger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+      "images": [
+        "/images/img3.jpg"
+      ],
+      "price": 130
+    },
+    {
+      "id": "4",
+      "name": "Juice",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et",
+      "images": [
+        "/images/juice1.jpg"
+      ],
+      "price": 130
+    }
+  ],
+  "wishlist": [],
+  "Orders": []
+}
